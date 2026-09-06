@@ -1,0 +1,196 @@
+# Automotive Communication Simulator — Educational Non-Commercial License
+
+**Version 1.0 — September 2026**
+
+Copyright © 2026 Jose Gomes. All rights reserved.
+
+## 1. Purpose
+
+The Automotive Communication Simulator ("Software") is an educational software project designed to help students, engineers, researchers, educators, and automotive enthusiasts learn and experiment with automotive communication technologies and concepts.
+
+The Software may include simulations, models, protocols, interfaces, tools, documentation, examples, and other materials related to automotive communication systems.
+
+This License permits the Software to be freely used for personal, educational, academic, research, and other non-commercial purposes, subject to the terms below.
+
+## 2. Grant of License
+
+Subject to the terms and conditions of this License, the copyright holder grants you a worldwide, royalty-free, non-exclusive, non-transferable license to:
+
+* use the Software for personal and non-commercial purposes;
+* study and inspect the source code;
+* copy the Software;
+* modify the Software;
+* create derivative works for non-commercial purposes;
+* use the Software in educational courses, classrooms, laboratories, and academic projects;
+* use the Software for personal research and experimentation;
+* share unmodified copies of the Software;
+* share modified versions of the Software for non-commercial purposes.
+
+Any permitted copy or derivative work must retain this License and the applicable copyright notices.
+
+## 3. Non-Commercial Use
+
+For purposes of this License, "Non-Commercial Use" means use that is not primarily intended for or directed toward commercial advantage, monetary compensation, or the generation of revenue.
+
+Examples of permitted Non-Commercial Use include:
+
+* personal learning and experimentation;
+* university and school coursework;
+* academic research;
+* student projects;
+* teaching and classroom demonstrations;
+* non-commercial research projects;
+* personal GitHub projects;
+* demonstrations at non-commercial conferences or events;
+* educational videos and tutorials that do not directly sell or commercially exploit the Software;
+* modification and redistribution of the Software for educational or other non-commercial purposes.
+
+## 4. Commercial Use
+
+**Commercial Use is NOT permitted under this License.**
+
+Commercial Use means any use of the Software, in whole or in part, that is primarily intended for commercial advantage, monetary compensation, or revenue generation.
+
+Commercial Use includes, but is not limited to:
+
+* selling the Software or a modified version of the Software;
+* incorporating the Software into a commercial product or service;
+* using the Software as part of a product or service offered to paying customers;
+* using the Software to provide paid consulting, engineering, testing, training, or simulation services;
+* using the Software within a commercial training or educational platform;
+* using the Software as part of a paid course or commercial learning platform;
+* licensing, sublicensing, or renting the Software for commercial purposes;
+* distributing a derivative work for commercial purposes;
+* using the Software internally within a commercial organization for business operations, product development, testing, validation, or revenue-generating activities.
+
+Commercial Use requires a separate written commercial license from the copyright holder.
+
+## 5. Educational Institutions and Researchers
+
+Educational institutions, students, teachers, professors, and researchers may use, modify, and distribute the Software for educational and research purposes without obtaining additional permission, provided that such use is genuinely non-commercial and complies with this License.
+
+This permission does not automatically extend to commercial activities conducted by an educational institution or its partners.
+
+## 6. Commercial Licensing
+
+Organizations or individuals wishing to use the Software commercially may contact the copyright holder to request a separate commercial license.
+
+The copyright holder may, at their sole discretion, grant commercial rights subject to separate terms, conditions, and fees.
+
+A commercial license may permit activities that are prohibited by this License.
+
+## 7. Attribution
+
+When publicly distributing the Software or a modified version for permitted non-commercial purposes, you must:
+
+1. retain the original copyright notice;
+2. retain this License;
+3. clearly indicate if you have modified the Software; and
+4. provide reasonable attribution to the original project.
+
+Attribution may be provided in the project's documentation, repository, application credits, or another reasonable location.
+
+## 8. Derivative Works
+
+You may modify and create derivative works based on the Software for permitted non-commercial purposes.
+
+Derivative works must:
+
+* retain the original copyright notice;
+* include a copy of this License;
+* clearly identify substantial modifications;
+* not imply that the original author endorses or supports the modified work; and
+* not be distributed or used for Commercial Use without a separate commercial license.
+
+## 9. Distribution
+
+You may distribute copies of the Software, including modified versions, provided that:
+
+* the distribution is strictly for a permitted non-commercial purpose;
+* this License is included;
+* applicable copyright notices are retained;
+* modifications are clearly identified; and
+* no fee is charged specifically for the Software or access to the Software.
+
+Reasonable fees for physical media, hosting, educational administration, or other incidental services do not automatically constitute Commercial Use, provided that the Software itself is not being commercially exploited.
+
+## 10. No Trademark Rights
+
+This License does not grant permission to use any trademarks, logos, trade names, or other branding associated with the Software or its author.
+
+Use of such trademarks requires separate permission.
+
+## 11. Third-Party Components
+
+The Software may contain or depend upon third-party software, libraries, datasets, documentation, or other materials.
+
+Such components may be subject to separate licenses.
+
+This License does not replace or modify the license terms applicable to third-party components.
+
+You are responsible for complying with the applicable licenses of third-party components.
+
+## 12. Automotive and Safety Disclaimer
+
+The Software is intended **solely for educational, research, and simulation purposes**.
+
+It is not intended to control, operate, validate, certify, or provide safety assurance for any real vehicle, vehicle system, ECU, autonomous-driving system, or other safety-critical system.
+
+The Software must not be relied upon as evidence of compliance with automotive safety, cybersecurity, regulatory, or functional-safety requirements.
+
+The Software has not necessarily been developed, tested, validated, or certified according to standards including, but not limited to:
+
+* ISO 26262;
+* ISO/SAE 21434;
+* ISO 14229;
+* ISO 15765;
+* AUTOSAR specifications;
+* UNECE regulations; or
+* any other automotive regulatory or safety standard.
+
+Users are solely responsible for ensuring that any use involving real vehicles or safety-critical systems complies with all applicable requirements.
+
+## 13. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR PERFORMANCE.
+
+## 14. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR OTHER DAMAGES ARISING FROM OR RELATED TO THE USE OF, INABILITY TO USE, MODIFICATION OF, OR DISTRIBUTION OF THE SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION, DAMAGE TO VEHICLES, ELECTRONIC CONTROL UNITS, COMPUTERS, NETWORKS, DATA, OR OTHER HARDWARE OR SOFTWARE.
+
+## 15. Termination
+
+This License automatically terminates if you violate any of its terms.
+
+Upon termination, you must immediately cease all use and distribution of the Software that is not otherwise permitted by applicable law or a separate written agreement.
+
+Rights granted to you under this License may be reinstated if the copyright holder provides written permission.
+
+## 16. Reservation of Rights
+
+Except for the rights expressly granted under this License, all rights, title, and interest in and to the Software remain with the copyright holder.
+
+No rights are granted by implication, estoppel, or otherwise.
+
+## 17. Governing Law
+
+This License shall be governed by and interpreted in accordance with the laws applicable to the copyright holder, without regard to conflict-of-law principles.
+
+Nothing in this section limits any mandatory rights that cannot legally be excluded under applicable law.
+
+## 18. Contact
+
+For questions regarding this License or requests for commercial use, please contact:
+
+**Copyright Holder:** [YOUR NAME]
+**Project:** [PROJECT NAME]
+**Email:** [YOUR EMAIL]
+**Repository:** [GITHUB REPOSITORY]
+
+---
+
+**Copyright © 2026 [YOUR NAME]. All rights reserved.**
