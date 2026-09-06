@@ -9,7 +9,11 @@ polling, frame construction, real CRC computation, and switched vs. broadcast de
 No build step, no dependencies, no backend — it's a single self-contained HTML file.
 
 ---
+## Automotice Communication
 
+![Automotive Communication Simulator Demo](docs/demo.gif)
+
+--
 ## Running it locally
 
 Because everything (HTML, CSS, JavaScript) lives in one file, there are two ways to run it:
