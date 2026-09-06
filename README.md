@@ -277,4 +277,4 @@ priority — over full protocol-conformance. Specific simplifications:
 
 ## License
 
-Add your project's license here.
+- It can be found under the LICENSE file. 
